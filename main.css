@@ -1,0 +1,50 @@
+body {
+    background-color: lightslategray;
+    font-family: 'Times New Roman', Times, serif;
+    color: whitesmoke;
+    font-size: 18px;
+
+}
+@media (orientation: portrait) {}
+@media (orientation: landscape) {}
+a {
+    text-decoration: none;
+    color: whitesmoke;
+    padding: 20px;
+}
+.headerbild {
+    width: 100%;
+}
+.header {
+    text-align: right;
+    background-color: black;
+    padding: 20px;
+}
+h1 {
+    text-align: left;
+}
+.footer {
+    text-align: right;
+    padding: 20px;
+    background-color: black;
+}
+
+.img-box {
+    float: left;
+
+}
+.img-box2 {
+    float: right;
+
+}
+
+article {
+    background-color: black;
+    height: 300px;
+}
+section {
+    background-color: black;
+    height: 300px;
+    margin: 20px 0px;
+
+}
