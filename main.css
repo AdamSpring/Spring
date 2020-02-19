@@ -11,6 +11,10 @@ a {
     text-decoration: none;
     color: whitesmoke;
     padding: 20px;
+
+}
+a:hover {
+    color: orange;
 }
 .headerbild {
     width: 100%;
@@ -31,10 +35,14 @@ h1 {
 
 .img-box {
     float: left;
+    height: 300px;
+    width: 500px;
 
 }
 .img-box2 {
     float: right;
+    height: 300px;
+    width: 500px;
 
 }
 
@@ -45,6 +53,12 @@ article {
 section {
     background-color: black;
     height: 300px;
-    margin: 20px 0px;
+    margin: 5px 0;
 
+}
+.text1 {
+    padding: 10px;
+}
+.text2 {
+    padding: 10px;
 }
